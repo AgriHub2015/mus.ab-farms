@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&display=swap');
+
+body {
+    background-color: black;
+    
+}
+
+.head-div {
+    text-align: center;
+    padding: 20%;
+    padding-top: 2%;
+    padding-bottom: 3%;
+    color: white;
+}
+
+p {
+    font-family: 'Alegreya', serif;
+}
+
+i {
+    color: #77523f;
+}
+
+.link-div {
+    text-align: center;
+    padding: 20%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.alink {
+    text-align: center;
+    margin-top: 1px;
+    padding: 20px 0;
+    max-width: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #77523f;
+    color: black;
+    text-decoration: none;
+}
+
+.alink:hover {
+    color: #77523f;
+    background-color: black;
+    border: 2px solid;
+    border-radius: 5px;
+    border-color: white;
+}
+
+.copyright {
+    text-align: center;
+    color: #77523f;
+}
+
+.me {
+    color: #77523f;
+    text-decoration: none;
+}
